@@ -1,0 +1,54 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "email": "unclebob@gmail.com",
+      "age": 55,
+      "publishedDate": "2008-08-01",
+      "publisher": "Prentice Hall",
+      "overview": "A handbook of agile software craftsmanship."
+    },
+    {
+      "id": "2",
+      "title": "The Pragmatic Programmer",
+      "author": "Andrew Hunt, David Thomas",
+      "email": "pragprog@gmail.com",
+      "age": 50,
+      "publishedDate": "1999-10-30",
+      "publisher": "Addison-Wesley",
+      "overview": "Practical tips and philosophies for becoming a better programmer."
+    },
+    {
+      "id": "3",
+      "title": "Design Patterns: Elements of Reusable Object-Oriented Software",
+      "author": "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides",
+      "email": "gangoffour@gmail.com",
+      "age": 60,
+      "publishedDate": "1994-10-21",
+      "publisher": "Addison-Wesley",
+      "overview": "Introduces 23 classic design patterns for object-oriented programming."
+    },
+    {
+      "id": "4",
+      "title": "Refactoring: Improving the Design of Existing Code",
+      "author": "Martin Fowler",
+      "email": "mfowler@gmail.com",
+      "age": 54,
+      "publishedDate": "1999-07-08",
+      "publisher": "Addison-Wesley",
+      "overview": "Techniques for restructuring existing code to improve readability and maintainability."
+    },
+    {
+      "id": "5",
+      "title": "Introduction to Algorithms",
+      "author": "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein",
+      "email": "clrs@gmail.com",
+      "age": 58,
+      "publishedDate": "1990-09-01",
+      "publisher": "MIT Press",
+      "overview": "Comprehensive textbook on algorithms, widely used in universities worldwide."
+    }
+  ]
+}
